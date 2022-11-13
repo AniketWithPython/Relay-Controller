@@ -1,2 +1,2 @@
 # Relay-Controller
-Relay
+Relay controller using Arduino for home appliances
