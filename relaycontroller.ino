@@ -23,4 +23,4 @@ void loop() {
   digitalWrite(relay,LOW);
   indicator();
 }
-// ©Aniket Maity 2022
+// © 2022 Aniket Maity
