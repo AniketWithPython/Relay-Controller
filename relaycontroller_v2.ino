@@ -33,4 +33,4 @@ void loop() {
   digitalWrite(relay,LOW);
   cycle2();
 }
-// ©Aniket Maity 2023
+// © 2023 Aniket Maity
